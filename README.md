@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Header 1 (Big text)
+
+## Header 2 (Medium text)
+
+**Bold Text**
+
+[Link Text](https://www.linkedin.com/in/khanasif113051/)
+
+![Alt Text](ImageURL) (For adding images or icons)
