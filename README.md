@@ -1,4 +1,4 @@
-## Hi there 👋
+<!--  Hi there 👋-->
 
 <!--
 **plannergisdev/plannergisdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,12 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 🔭 I’m currently working on: My GitHub Mastery Plan(Big text)
-
-## Header 2 (Medium text)
+## 🔭 I’m currently working on: My GitHub Mastery Plan
+[Linedin Profile](https://www.linkedin.com/in/khanasif113051/)
+<!-- ## Header 2 (Medium text)
 
 **Bold Text**
 
-[Linedin Profile](https://www.linkedin.com/in/khanasif113051/)
 
-![Alt Text](ImageURL) (For adding images or icons)
+
+- #![Alt Text](ImageURL) (For adding images or icons)
+-->
