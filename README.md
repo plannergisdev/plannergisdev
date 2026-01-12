@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 
 **Bold Text**
 
-[Link Text](https://www.linkedin.com/in/khanasif113051/)
+[Linedin Profile](https://www.linkedin.com/in/khanasif113051/)
 
 ![Alt Text](ImageURL) (For adding images or icons)
