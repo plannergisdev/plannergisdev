@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Header 1 (Big text)
+## 🔭 I’m currently working on: My GitHub Mastery Plan(Big text)
 
 ## Header 2 (Medium text)
 
@@ -23,4 +23,3 @@ Here are some ideas to get you started:
 [Linedin Profile](https://www.linkedin.com/in/khanasif113051/)
 
 ![Alt Text](ImageURL) (For adding images or icons)
-## 🔭 I’m currently working on: My GitHub Mastery Plan
