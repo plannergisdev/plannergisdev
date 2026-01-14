@@ -20,6 +20,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 🔭 I’m currently working on: My GitHub Mastery Plan
+<p align="left">
+<a href="https://linkedin.com/in/khanasif113051/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://twitter.com/YOUR_TWITTER" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+</p>
+
+
 [Linedin Profile](https://www.linkedin.com/in/khanasif113051/)
 <!-- ## Header 2 (Medium text)
 
