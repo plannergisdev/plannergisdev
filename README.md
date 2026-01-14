@@ -33,3 +33,5 @@ Here are some ideas to get you started:
 
 ### 📊 My GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=plannergisdev&show_icons=true&theme=radical)
+
+[![My Skills](https://skillicons.dev/icons?i=py,js,html,css,git,github,vscode)](https://skillicons.dev)
