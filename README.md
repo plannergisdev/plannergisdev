@@ -60,3 +60,10 @@ Here are some ideas to get you started:
 </details>
 
 
+## 📂 Featured Projects
+
+### 🚀 [My Personal Portfolio](#) 
+* **Description:** A professional landing page built with HTML and CSS, hosted via GitHub Pages.
+* **Tech:** HTML, CSS, GitHub Actions.
+* **Status:** Development starting in Hour 9!
+
