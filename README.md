@@ -31,6 +31,12 @@ Here are some ideas to get you started:
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 
+### 📊 My Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=plannergisdev&show_icons=true&theme=transparent)
+
+### 🛠 Languages & Tools
+![Skill Icons](https://skillicons.dev/icons?i=git,github,vscode,html,css,py)
+
 ### 📊 My GitHub Stats
 ![Stats Card](https://github-readme-stats.vercel.app/api?username=plannergisdev&show_icons=true&theme=tokyonight)
 
