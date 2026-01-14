@@ -28,6 +28,15 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+
+<details>
+<summary><b>📂 Click to view my 20-hour Learning Roadmap</b></summary>
+
+1. Hours 1-4: Git Basics ✅
+2. Hours 5-8: Profile Design 🏗️
+3. Hours 9-12: Live Portfolio Site 📅
+</details>
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 ### 🛠 Languages & Tools
