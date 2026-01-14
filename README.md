@@ -1,3 +1,8 @@
+<h1 align="center">Hi 👋, I'm Planner Asif Khan who is also a GIS Developer</h1>
+<p align="center">
+  Interdisciplinary Developer | Orban Planner | GIS Enthusiast | Open Source Learner
+</p>
+
 <!--  Hi there 👋-->
 
 <!--
@@ -30,6 +35,16 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+
+### 🛠 Languages & Tools
+[![My Skills](https://skillicons.dev/icons?i=py,js,html,css,git,github,vscode)](https://skillicons.dev)
+
+### 📊 My GitHub Stats
+
+
+
+
 <details>
 <summary><b>📂 Click to view my 20-hour Learning Roadmap</b></summary>
 
@@ -37,11 +52,5 @@ Here are some ideas to get you started:
 2. Hours 5-8: Profile Design 🏗️
 3. Hours 9-12: Live Portfolio Site 📅
 </details>
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-
-### 🛠 Languages & Tools
-[![My Skills](https://skillicons.dev/icons?i=py,js,html,css,git,github,vscode)](https://skillicons.dev)
-
-### 📊 My GitHub Stats
 
 
