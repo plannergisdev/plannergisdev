@@ -32,12 +32,12 @@ Here are some ideas to get you started:
 
 
 ### 📊 My Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=plannergisdev&show_icons=true&theme=transparent)
+##![GitHub Stats](https://github-readme-stats.vercel.app/api?username=plannergisdev&show_icons=true&theme=transparent)
 
 ### 🛠 Languages & Tools
 ![Skill Icons](https://skillicons.dev/icons?i=git,github,vscode,html,css,py)
 
 ### 📊 My GitHub Stats
-![Stats Card](https://github-readme-stats.vercel.app/api?username=plannergisdev&show_icons=true&theme=tokyonight)
+##![Stats Card](https://github-readme-stats.vercel.app/api?username=plannergisdev&show_icons=true&theme=tokyonight)
 
 [![My Skills](https://skillicons.dev/icons?i=py,js,html,css,git,github,vscode)](https://skillicons.dev)
