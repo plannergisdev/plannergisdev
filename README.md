@@ -30,11 +30,9 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
-
-
 ### 🛠 Languages & Tools
-![Skill Icons](https://skillicons.dev/icons?i=git,github,vscode,html,css,py)
+[![My Skills](https://skillicons.dev/icons?i=py,js,html,css,git,github,vscode)](https://skillicons.dev)
 
 ### 📊 My GitHub Stats
 
-[![My Skills](https://skillicons.dev/icons?i=py,js,html,css,git,github,vscode)](https://skillicons.dev)
+
